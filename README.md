@@ -1,10 +1,14 @@
 # VUECLI LUMEN template
 
 ### Folder structure: <br>
-<strong>/htdocs</strong>
-<strong>    backend</strong>
-<br><strong>    frontend</strong>
-<br><strong>public_html</strong> [accessible to whole world]<br>
+<pre ><code>/<span>var</span>
++-- /www
+    +-- /vhosts
+        +-- /example.com
+            +-- public_html
+        +-- /backend
+        +-- /frontend
+</code></pre>
 
 ### Move to backend folder:<br>
 <strong>composer install</strong>
