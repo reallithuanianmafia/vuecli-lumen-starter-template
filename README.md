@@ -16,8 +16,7 @@
 <strong>npm install</strong>
 
 ### Last steps:<br>
-<strong> * cd /htdocs/frontend/dist</strong>
-<br><strong> * rm -r /htdocs/public_html</strong>
+<br><strong> * rm -r public_html</strong>
 <br><strong> * ln -s frontend/dist public_html</strong>
 <br><strong> * Then we navigate to cd /htdocs/frontend/dist</strong>
 <br><strong> * ln -s ../../backend/public app</strong>
