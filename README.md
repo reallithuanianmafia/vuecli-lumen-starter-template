@@ -16,12 +16,12 @@
 <strong>npm install</strong>
 
 ### Last steps:<br>
-<strong> cd /htdocs/frontend/dist</strong>
-<br><strong>rm -r /htdocs/public_html</strong>
-<strong>ln -s frontend/dist public_html</strong>
-<br><strong>Then we navigate to cd /htdocs/frontend/dist</strong>
-<strong>ln -s ../../backend/public app</strong>
-<br><strong>Here you go, now we should configure .htaccess in order to proceed.</strong>
+<strong> * cd /htdocs/frontend/dist</strong>
+<br><strong> * rm -r /htdocs/public_html</strong>
+<strong> * ln -s frontend/dist public_html</strong>
+<br><strong> * Then we navigate to cd /htdocs/frontend/dist</strong>
+<strong> * ln -s ../../backend/public app</strong>
+<br><strong> * Here you go, now we should configure .htaccess in order to proceed.</strong>
 
 <pre>
     <code>
