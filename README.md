@@ -1,1 +1,1 @@
-# VUECLI LUMEN
+# VUECLI LUMEN template
