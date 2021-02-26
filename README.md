@@ -1,6 +1,6 @@
 # VUECLI LUMEN template
 
 Folder structure:
-    backend
-    frontend
-    public_html [accessible to whole world]
+    <br>backend<br>
+    <br>frontend<br>
+    <br>public_html [accessible to whole world]<br>
