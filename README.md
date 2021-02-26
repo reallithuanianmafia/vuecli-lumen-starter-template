@@ -1,11 +1,12 @@
 # VUECLI LUMEN template
 
 ### Folder structure: <br>
-<pre ><code>/<span>var</span>
-+-- /www
-    +-- /vhosts
-        +-- /example.com
-            +-- public_html
+<pre ><code>
+    +-- /htdocs
+        +-- /public_html
+            +-- index.html
+                app/index.php
+                .htaccess
         +-- /backend
         +-- /frontend
 </code></pre>
